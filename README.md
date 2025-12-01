@@ -9,7 +9,7 @@
 
 ## 📖 Overview
 
-This repository contains all the material needed to build and deploy a web application for lung segmentation in thoracic X-ray (CXR) images. The goal of the project is to upload a .png X-ray image and obtain the corresponding predicted lung mask using a U-Net model trained with MONAI. This project is part of the **Advanced Topics in Machine Learning and Neural Networks** course.
+This repository contains all the material needed to build and deploy a web application for lung segmentation in thoracic X-ray (CXR) images. The goal of the project is to upload a .png X-ray image and obtain the corresponding predicted lung mask using a U-Net model trained with MONAI. This project is part of the **Advanced Topics in Neural Networks and Machine Learning** course.
 
 This repo includes:
 - Lung_Segmentation.pdf, a short overview of what you will do

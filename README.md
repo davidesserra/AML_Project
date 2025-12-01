@@ -19,10 +19,13 @@ This repo includes:
 
 ## 👥 Authors
 
-- **Davide Serra** - *Initial work* - [davidesserra](https://github.com/davidesserra)
+- **Davide Serra** - [davidesserra](https://github.com/davidesserra)
+- **Andrea Corvaglia**
+- **Francesco Pisu**
+- **Donato Tiano**
 
 ---
 
 <p align="center">
-  Made with ❤️ for AML Course
+  Made with 🫁 for AML Course
 </p>
